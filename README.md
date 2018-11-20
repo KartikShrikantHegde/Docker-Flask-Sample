@@ -22,21 +22,21 @@ Make sure you have Docker installed. Please follow the below link for official d
 
 ### Installing
 
-Step 1: Change to the directory where the project was cloned in previous step.
+**Step 1:** Change to the directory where the project was cloned in previous step.
 
 ```
 cd Docker-Flask-Sample
 ```
 
-Step 2: Make sure Docker is up and running. You can start the docker engine from desktop icon.
+**Step 2:** Make sure Docker is up and running. You can start the docker engine from desktop icon on Mac.
 
-Run
+**Step 3:** Run
 
 ```
 docker-compose up --build
 ```
 
-Open up the browser and paste the below url -
+**Step 4:** Open up the browser and paste the below url
 
 ```
 http://localhost:8000/
