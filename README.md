@@ -14,7 +14,7 @@ On macOS, you can install the git using Homebrew using ```brew install git```
 
 ### Prerequisites
 
-**Docker**
+**1. Docker**
 
 Make sure you have Docker installed. Please follow the below link for official documentation from Docker to install latest version of docker on your os. For this project I am using Docker CE (18.09).
 
@@ -53,7 +53,7 @@ The browser should display "Hello World" message. The app is up and running insi
 * [Docker](http://www.dropwizard.io/1.0.2/docs/) -  Deployment model
 * [Flask](https://maven.apache.org/) - The web framework
 * [Python](https://rometools.github.io/rome/) - programming language
-* [Python](https://rometools.github.io/rome/) - Package and dependency manager
+* [pip](https://rometools.github.io/rome/) - Package and dependency manager
 
 ## Contributing
 
