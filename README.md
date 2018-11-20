@@ -4,17 +4,17 @@ This project can be used to run a basic "Hello World" flask app using docker-com
 
 ## Getting Started
 
-Step 1: Make sure git is installed on your os. I will be using macOS for the project.
+**Step 1:** Make sure git is installed on your os. I will be using macOS for the project.
 
 On macOS, you can install the git using Homebrew using ```brew install git```
 
-Step 2: Clone the project into your local machine using below command.
+**Step 2:** Clone the project into your local machine using below command.
 
 ```git clone https://github.com/KartikShrikantHegde/Docker-Flask-Sample.git```
 
 ### Prerequisites
 
-1. Docker
+**Docker**
 
 Make sure you have Docker installed. Please follow the below link for official documentation from Docker to install latest version of docker on your os. For this project I am using Docker CE (18.09).
 
