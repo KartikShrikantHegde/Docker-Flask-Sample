@@ -6,7 +6,7 @@ This project can be used to run a basic "Hello World" flask app using docker-com
 
 **Step 1:** Make sure git is installed on your os. I will be using macOS for the project.
 
-On macOS, you can install the git using Homebrew using ```brew install git```
+On macOS, you can install the git using Homebrew with ```brew install git```
 
 **Step 2:** Clone the project into your local machine using below command.
 
