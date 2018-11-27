@@ -42,7 +42,7 @@ docker-compose up --build
 http://localhost:8000/
 ```
 
-The browser should display "Hello World" message. The app is up and running inside a docker container using docker-compose.
+The browser should display ```Hello World``` message. The app is up and running inside a docker container using docker-compose.
 
 ## Running the tests
 
